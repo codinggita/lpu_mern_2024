@@ -3,3 +3,4 @@
 ## Projects: 
 
 1. Pixelation Art: A website to create pixel art out of a digital images
+2. Edits for request changes.
