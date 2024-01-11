@@ -1,3 +1,5 @@
 # lpu_mern_2024
 
-gfdtr
+BookStop Management
+
+This store assigns or resell the books.
