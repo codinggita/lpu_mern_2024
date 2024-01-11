@@ -1,3 +1,3 @@
 # lpu_mern_2024
 
-This repository is to explain fork in github
+This repository is to explain pull requests
