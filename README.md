@@ -5,3 +5,6 @@ A cross Platform application that is a combination of UMS and Lpulive that is sp
 
 
 I added a few more changes for the commit 
+
+
+I added few more lines with the help of Github GUI.
